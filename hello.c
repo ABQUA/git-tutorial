@@ -4,6 +4,7 @@ int main() {
 
 	char* string = "Param Siddharth."; // Your name here. ^_^
 	char* string1 = " - Sweetie"; // Your name here. ^_^
+	char* string = "Mohd Abqua Alam Khan"; // Your name here. ^_^
 	char* string = "Anamika Chamola"; // Your name here. ^_^
 	char* string = "Deepak Vishwakarma."; // Your name here. ^_^
 	char* string = "Lanke vamsi kiran."; // Your name here. ^_^
